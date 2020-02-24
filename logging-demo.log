@@ -1,0 +1,7 @@
+2020-34-24 12:34:55 INFO  User:33 - enter input
+2020-35-24 12:35:01 WARN  User:22 - Automation charges will prevail
+2020-35-24 12:35:01 DEBUG Construction:13 - debug cost is: 1920000.0
+2020-35-24 12:35:01 INFO  User:28 - Construction Estimate is INR 1920000.0
+2020-35-24 12:35:13 INFO  User:33 - enter input
+2020-35-24 12:35:17 DEBUG Construction:13 - debug cost is: 720000.0
+2020-35-24 12:35:17 INFO  User:28 - Construction Estimate is INR 720000.0
